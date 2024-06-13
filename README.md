@@ -14,4 +14,4 @@
 Made By
 
 
-<img src="https://raw.githubusercontent.com/agungfadilnur/Power-Supply-Amp/main/Img/gndrg.jpg" width="50%">
+<img src="https://raw.githubusercontent.com/agungfadilnur/Power-Supply-Amp/main/Img/gndrg.jpg" width="35%">
